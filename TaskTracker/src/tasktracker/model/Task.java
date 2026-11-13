@@ -1,0 +1,4 @@
+package tasktracker.model;
+
+public class Task {
+}
